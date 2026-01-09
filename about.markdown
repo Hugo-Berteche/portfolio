@@ -4,12 +4,12 @@ title: À propos
 permalink: /about/
 ---
 
---------------------
-
-![photo_CV](/assets/images/photo_CV.jpg)
+---
 
 Jeune passionné par la conception d'univers fantastiques et la conceptualisation de visuels, toujours prêt pour de nouveaux Challenges et motivé. <br>
 Actuellement à la recherche d'une alternance d'une durée de 14 mois du 14 septembre 2026 au 22 octobre 2027, vous pourrez donc trouver ci-dessous de plus amples informations sur mon parcours.
+
+![photo_CV](/assets/images/photo_CV.jpg)
 
 Formations
 ----------
@@ -66,9 +66,9 @@ Compétences
 Langues
 -------
 
-- Français (natif)
-- Anglais : Intermédiaire (B1+)
-- Allemand : Débutant (A2+)
+- **Français** (natif)
+- **Anglais** : Intermédiaire (B1+)
+- **Allemand** : Débutant (A2+)
 
 Centres d'intérêts
 ------------------

@@ -21,7 +21,7 @@
 title: Hugo BERTECHE
 email: hugo.berteche@epitech.eu
 description: >- # this means to ignore newlines until "baseurl:"
-  Boujour   
+  Bonjour
   et bienvenue sur le site portfolio 
   de Hugo BERTECHE, étudiant en développement web.<br>  
   Vous trouverez ici les différents projets sur lesquels j'ai travaillé.
@@ -32,6 +32,8 @@ github_username:  hugo-berteche
 
 collections:
   projects:
+    output: true
+    permalink: /:collection/:name
 
 # Build settings
 theme: jekyll-theme-hyde
