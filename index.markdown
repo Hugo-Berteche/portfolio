@@ -2,6 +2,20 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: home
 title: Accueil
 ---
+
+Accueil
+=======
+
+--------------------
+
+Bonjour !
+---------
+
+![photo_CV](/assets/images/photo_CV.jpg)
+
+Vous pourrez retrouver toutes les informations qui pourrait vous être bénéfique dans l'objectif d'appréciez ma candidature.
+
+Vous pourrez notamment retrouver mon portfolio contenant quelques un de mes projets, une présentation et mes différents contacts.

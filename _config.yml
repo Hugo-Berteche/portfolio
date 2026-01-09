@@ -23,7 +23,7 @@ email: hugo.berteche@epitech.eu
 description: >- # this means to ignore newlines until "baseurl:"
   Boujour   
   et bienvenue sur le site portfolio 
-  de Hugo BERTECHE, étudiant en développement web.  
+  de Hugo BERTECHE, étudiant en développement web.<br>  
   Vous trouverez ici les différents projets sur lesquels j'ai travaillé.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
